@@ -1,5 +1,5 @@
-#lab02
-##Структура:
+# lab02
+## Структура:
 sources
 include
 examples
